@@ -1,0 +1,1 @@
+# Repeated substring pattern
