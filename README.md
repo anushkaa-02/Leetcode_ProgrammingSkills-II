@@ -11,5 +11,5 @@
 
 | #           | Title                                       | Solution  | Difficulty|
 | ----------- | -----------                                 |-----------|---------- |
-| 896 | Monotonic Array | [C++]() | Easy |
+| 896 | Monotonic Array | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-II/blob/main/leetcode2/Day1/Monotonic%20Array.md) | Easy |
 | 28 | Implement strStr() | [C++](https://github.com/pilipi-puu-puu/Leetcode_ProgrammingSkills-II/blob/main/leetcode2/Day1/Implement%20strStr().md) | Easy |
