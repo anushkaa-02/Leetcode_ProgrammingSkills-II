@@ -1,5 +1,4 @@
 # Balanced Binary Tree
-# Implement strStr()
 - ## Question:
 >Given a binary tree, determine if it is height-balanced.
 >
